@@ -1,15 +1,13 @@
-# excel-sales-dashboard
-This project features an interactive Excel dashboard built for a fictional retail company. 
-# Data Cleaning & EDA with Pandas
+# Excel Sales Dashboard
 
-This project simulates an end-to-end exploratory data analysis (EDA) workflow on a retail dataset using Python.
+A dynamic dashboard built in Excel to track monthly sales, profits, and regional performance.
 
-## Key Highlights
+## Features
 
-- Missing value imputation
-- Outlier detection with IQR
-- Summary statistics
-- Trend and correlation analysis using Matplotlib
+- PivotTables and PivotCharts
+- Slicers for interactivity
+- KPIs like total sales, YoY growth, top-performing products
 
-📁 Tools: Python, Pandas, Matplotlib  
-📊 Dataset: Simulated retail transaction data
+📁 Tools: Excel, PivotTables, Formulas  
+📊 Dataset: Sample retail data (fictional)
+
